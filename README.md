@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Aristotia
+- 👋 Hi, I’m @Antoine Belloni
 - 👀 I’m interested in a lots of things: 
         - Astronomy
         - Video Games
         - History
         - Politics
+        - Geopolitics
         - Music
 - 🌱 I’m currently learning to be a Developper Web/Mobile at Wild Code School in Toulouse
 - 💞️ I’m looking to collaborate on dev projects though i am beginner
